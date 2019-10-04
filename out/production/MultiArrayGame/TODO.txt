@@ -1,0 +1,12 @@
+to fix:
+not allowing action if system is damaged.
+
+evasion restored after fixing
+
+make rooms fill with 'x' after damaging
+
+xxxxxxxxxxxxxxxxxxxxxxxxxx  fix dialog with enemy turn   xxxxxxxxxxxxxxxxx  more or less
+
+other game loops
+
+into/tutorial
